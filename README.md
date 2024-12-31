@@ -5,7 +5,7 @@ Here's a professional README for your project, including information about the P
 
 ## Overview
 
-This project is a Node.js API built with Express and MongoDB. It provides endpoints for managing users, posts, and comments. The API supports CRUD operations and includes features such as user authentication, soft deletes, and eager loading of related data.
+This project is a Node.js API built with Express and MongoDB. 
 
 ## Features
 
